@@ -13,6 +13,11 @@ Create React libraries.
 
 > Your environment will have everything you need to build a modern React library.
 
+## Pending
+
+- Path mapping typescript.
+- Sort imports automatically with prettier or eslint.
+
 ## Scripts
 
-> TODO
+> TODO, because I'm testing if I should use babel, tsc or even rollup.
