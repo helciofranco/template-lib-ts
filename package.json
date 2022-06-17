@@ -7,6 +7,9 @@
   "license": "MIT",
   "private": false,
   "main": "src/index.ts",
+  "scripts": {
+    "build": "echo todo"
+  },
   "peerDependencies": {
     "react": ">=17.0.0",
     "react-dom": ">=17.0.0"
